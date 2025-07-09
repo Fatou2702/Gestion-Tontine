@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+}
+
+.bg-app {
+    background-color: #158765;
+}
+
+footer {
+    font-size: 0.875rem;
+}
+label.form-label {
+    text-align: left !important;
+    display: block !important;
+}
+
