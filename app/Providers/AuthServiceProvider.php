@@ -27,4 +27,6 @@ class AuthServiceProvider extends ServiceProvider
 
         //
     }
+
+    //Koudia a implémenté la fonctionnalité login et register
 }
